@@ -1,0 +1,22 @@
+if game.PlaceId == 8950974597 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RtxMast/Test000/main/%5BUPD%202!%5D%20Anime%20Speed%20Simulator.lua", true))()
+
+   elseif game.PlaceId == 9498006165 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RtxMast/Test000/main/Tapping%20Simulator!.lua"))()
+
+   elseif game.PlaceId == 8585657145 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RtxMast/Test000/main/%5BNEW%5D%20Anime%20Hero%20Simulator.lua"))()
+
+   elseif game.PlaceId == 8657732325 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RtxMast/Test000/main/%5BUpdate%5D%20World%20Sail.lua"))()
+
+   elseif game.PlaceId == 5113786612 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RtxMast/Test000/main/Sword%20Simulator%20Remastered.lua"))()
+
+   elseif game.PlaceId == 5784984978 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RtxMast/Test000/main/Milk%20Simulator.lua"))()
+
+   elseif game.PlaceId == 4246487209 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RtxMast/Test000/main/Boss%20Fighting%20Simulator.lua"))()
+
+end
